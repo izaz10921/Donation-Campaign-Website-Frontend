@@ -1,0 +1,122 @@
+ [
+    {
+      "picture": "https://i.ibb.co/gJPMx26/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_bg_color": "rgba(255, 68, 74, 0.20)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 199.99
+    },
+    {
+      "picture": "https://i.ibb.co/8gJLY60/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_bg_color": "rgba(121, 194, 63, 0.20)",
+      "description": "Nulla facilisi. Vestibulum non tortor id quam dapibus dignissim.",
+      "price": 49.99
+    },
+    {
+      "picture": "https://i.ibb.co/T2smB5L/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg_color": "#F87147",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "text_button_bg_color": "rgba(248, 113, 71, 0.20)",
+      "description": "Pellentesque ultrices luctus magna, ac tempus odio efficitur nec.",
+      "price": 79.99
+    },
+    {
+      "picture": "https://i.ibb.co/T2smB5L/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg_color": "#F87147",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "text_button_bg_color": "rgba(248, 113, 71, 0.20)",
+      "description": "Fusce vulputate venenatis justo, et laoreet enim varius at.",
+      "price": 29.99
+    },
+    {
+      "picture": "https://i.ibb.co/jRd4NzF/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_bg_color": "rgba(0, 82, 255, 0.20)",
+      "description": "Sed tincidunt dui eu augue posuere, vel placerat elit tempus.",
+      "price": 69.99
+    },
+    {
+      "picture": "https://i.ibb.co/gJPMx26/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_bg_color": "rgba(255, 68, 74, 0.20)",
+      "description": "Quisque non mi eu mauris posuere placerat.",
+      "price": 149.99
+    },
+    {
+      "picture": "https://i.ibb.co/8gJLY60/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_bg_color": "rgba(121, 194, 63, 0.20)",
+      "description": "Vestibulum vel augue nec justo maximus dapibus.",
+      "price": 39.99
+    },
+    {
+      "picture": "https://i.ibb.co/gJPMx26/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_bg_color": "rgba(255, 68, 74, 0.20)",
+      "description": "Phasellus non tortor vestibulum, feugiat nunc nec, gravida justo.",
+      "price": 179.99
+    },
+    {
+      "picture": "https://i.ibb.co/T2smB5L/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg_color": "#F87147",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "text_button_bg_color": "rgba(248, 113, 71, 0.20)",
+      "description": "Mauris aliquam euismod risus, ac hendrerit nisi interdum non.",
+      "price": 89.99
+    },
+    {
+      "picture": "https://i.ibb.co/jRd4NzF/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_bg_color": "rgba(0, 82, 255, 0.20)",
+      "description": "Vestibulum hendrerit semper justo, non cursus tellus bibendum vel.",
+      "price": 34.99
+    },
+    {
+      "picture": "https://i.ibb.co/jRd4NzF/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_bg_color": "rgba(0, 82, 255, 0.20)",
+      "description": "Fusce placerat quam eu augue tempus, vel bibendum sapien tristique.",
+      "price": 59.99
+    },
+    {
+      "picture": "https://i.ibb.co/8gJLY60/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_bg_color": "rgba(121, 194, 63, 0.20)",
+      "description": "Vivamus euismod odio a lorem mattis, vel suscipit dolor fermentum.",
+      "price": 44.99
+    }
+  ]
