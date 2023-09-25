@@ -9,14 +9,14 @@ const Card = ({ cardInfo }) => {
   const titleStyle = {
     color: category_bg_color, 
   };
-  const cardBgColor ={
-    backgroundColor: card_bg_color,
-  };
+  
   const textButtonBgColor ={
     backgroundColor: text_button_bg_color,
 
   };
-  
+  const cardBgColor ={
+    backgroundColor: card_bg_color,
+  };
 
   return (
    
