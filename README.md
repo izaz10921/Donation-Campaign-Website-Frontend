@@ -1,6 +1,6 @@
-# React + Vite
+# 3 project features
 
-3 project features
+
 
 -Donation card:
  One of the most important feature of this project is Donation card.If I click any card from the home page it will take me to the card details page.In the card details page if i click the donate button the data of the card will added into the browser local storage.Then from the local storage I load the data into the donation page and each of the donate card is added into the donation page.
