@@ -16,15 +16,16 @@ const DonatedCard = ({ card }) => {
     const viewButton = {
         backgroundColor: category_bg_color,
     }
+    
     return (
-        <div >
-            <div className='flex gap-6 w-[600px] h-[200px] rounded-lg' style={cardBgColor}>
-                <div><img className='h-[200px] rounded-md w-[220px]' src={picture} alt="" /></div>
+        <div className='md:pb-5 pb-3' >
+            <div className='flex gap-6 lg:w-[600px] md:w-[600px]  md:ml-16 lg:h-[200px] w-[400px] h-[250px] rounded-lg' style={cardBgColor}>
+                <div><img className='lg:h-[200px] h-[250px] md:w-[220px] w-[180px] rounded-md lg:w-[220px]' src={picture} alt="" /></div>
                 <div className='py-[50px]' >
                     <div>
                         <button className='px-[10px] py-[4px] rounded-md' style={textButtonBgColor}><span style={titleStyle}>{category}</span></button>
                     </div>
-                    <div className='text-[24px] text-black font-semibold'>
+                    <div className='lg:text-[24px] text-black font-semibold'>
                         {title}
                     </div>
                     <div style={titleStyle}>${price}</div>

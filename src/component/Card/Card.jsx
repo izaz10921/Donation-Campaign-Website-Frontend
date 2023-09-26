@@ -20,7 +20,7 @@ const Card = ({ cardInfo }) => {
 
   return (
    
-      <Link to={`/card/${cardInfo.id}`}><div style={cardBgColor} className='rounded-md' >
+      <Link to={`/card/${cardInfo.id}`}><div style={cardBgColor} className='rounded-md lg:w-[300px] w-[280px] lg:h-[283px]' >
       <img src={picture} alt="" />
      <div className='pl-4 pb-4 pt-4'>
      <div><button className='px-[10px] py-[4px] rounded-md' style={textButtonBgColor}><span style={titleStyle}>{category}</span></button></div>

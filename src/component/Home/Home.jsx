@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <div className="bg-white">
             <Hero></Hero>
-            <div className="px-[140px] pt-[100px] pb-[180px] ">
+            <div className="lg:px-[140px] px-[80px] pt-[100px] pb-[180px] ">
             <Cards></Cards>
             </div>
             

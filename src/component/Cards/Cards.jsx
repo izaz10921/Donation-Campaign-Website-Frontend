@@ -16,12 +16,12 @@ const Cards = () => {
 
 
     return (
-        <div className='grid grid-cols-4 gap-6 '>
+        <div className=' lg:grid lg:grid-cols-4 lg:gap-6 md:grid md:grid-cols-2 grid grid-rows-1 gap-4'>
            
 
            {
             cardData.map(cardInfo => <Card key={cardInfo.id} cardInfo={cardInfo}></Card>)
-           }
+           }8
     
         </div>
     );

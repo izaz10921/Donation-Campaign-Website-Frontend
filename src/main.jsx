@@ -17,7 +17,7 @@ const router = createBrowserRouter([
     element: <Root></Root>,
     children: [
       {
-        path: '/home',
+        path: '/',
         element: <Home></Home>
       },
       {
@@ -27,7 +27,8 @@ const router = createBrowserRouter([
       },
       {
         path: '/statistics',
-        element: <Statistics></Statistics>
+        element: <Statistics></Statistics>,
+        loader: () => fetch('/data.json')
       },
       {
         path: '/card/:cardId',

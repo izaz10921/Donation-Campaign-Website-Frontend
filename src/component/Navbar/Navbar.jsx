@@ -5,12 +5,12 @@ const Navbar = () => {
 
    
     return (
-        <div className=" flex justify-between items-center text-black bg-white px-[140px] pt-14 ">
-            <div><img src="/Resources/Logo.png" alt="" /></div>
+        <div className=" lg:flex md:flex lg:justify-between md:justify-between items-center text-black bg-white px-[140px] pt-14 ">
+            <div className="pb-[10px]"><img src="https://i.ibb.co/nj7tjJj/Logo.png" alt="" /></div>
 
 
             <div className="flex gap-4">
-                <div><NavLink exact to="/home" style={({ isActive }) => {
+                <div><NavLink exact to="/" style={({ isActive }) => {
                         return {
                             fontWeight: isActive ? "bold" : "",
                             color: isActive ? "red" : "black",
